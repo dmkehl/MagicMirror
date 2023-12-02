@@ -1,6 +1,7 @@
 .clock-grid {
   display: inline-flex;
   gap: 15px;
+  padding-bottom: 100px;
 }
 
 .clock-grid-left {

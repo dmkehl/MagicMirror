@@ -25,7 +25,7 @@ Module.register("calendar", {
 		wrapLocationEvents: false,
 		maxTitleLines: 3,
 		maxEventTitleLines: 3,
-		fetchInterval: 60 * 60 * 1000, // Update every hour
+		fetchInterval: 15 * 60 * 1000, // Update every 15 minutes
 		animationSpeed: 2000,
 		fade: true,
 		urgency: 7,
